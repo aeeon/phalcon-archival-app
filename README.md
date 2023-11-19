@@ -1,4 +1,5 @@
-<h2>This is old app based on Yona CMS. For more info look here: https://github.com/alexander-torosh/yona-cms</h2>
+<h2>This is old app created in 2015 based on Yona CMS. </h2>
+<h3>For more info look here: https://github.com/alexander-torosh/yona-cms</h3>
 
 ## Features
 
