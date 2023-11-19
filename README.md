@@ -10,5 +10,6 @@
 * phalcon 1.3.5+
 * phalcon 2.0.7+
 * mysql
+* redis
 * php-intl
 * apache (+mod_rewrite) or nginx
