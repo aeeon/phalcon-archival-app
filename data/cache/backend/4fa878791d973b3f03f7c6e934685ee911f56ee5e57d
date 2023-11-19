@@ -1,1 +1,0 @@
-C:34:"Phalcon\Mvc\Model\Resultset\Simple":286:{a:5:{s:5:"model";C:19:"Tree\Model\Category":163:{a:9:{s:2:"id";N;s:4:"root";s:6:"biznes";s:9:"parent_id";N;s:4:"slug";N;s:5:"depth";i:0;s:8:"left_key";N;s:9:"right_key";N;s:10:"created_at";N;s:10:"updated_at";N;}}s:5:"cache";N;s:4:"rows";a:0:{}s:9:"columnMap";N;s:11:"hydrateMode";i:0;}}
