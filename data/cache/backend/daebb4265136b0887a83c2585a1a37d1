@@ -1,0 +1,35 @@
+s:921:"<ul id="menu">
+        <li>
+                   <a class="noajax" href="http://jakprawnie.local/dom" >
+                      Prawo dla każdego
+        </a>
+        </li>
+    <li>
+                   <a class="noajax" href="http://jakprawnie.local/oferta.html" >
+                      Oferta
+        </a>
+        </li>
+    <li>
+                   <a class="noajax" href="http://jakprawnie.local/biznes" >
+                      Prawo dla firm
+        </a>
+        </li>
+    <li>
+                   <a class="noajax" href="http://jakprawnie.local/kontakt.html" >
+                      Kontakt
+        </a>
+        </li>
+    <li>
+                <a class="noajax" href="/wzory.html" >
+
+                      Wzory pism
+        </a>
+        </li>
+    <li>
+                <a class="noajax" href="javascript:void(0)" >
+
+                      Encyklopedia prawa
+        </a>
+        </li>
+</ul>
+";

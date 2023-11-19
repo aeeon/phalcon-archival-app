@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <title>Jakprawnie.pl</title>
+
+        <!-- Bootstrap -->
+        <link href="assets/css/custom.css" rel="stylesheet">
+        <link href="assets/bower_components/Swiper/dist/css/swiper.min.css" rel="stylesheet">
+        
+        <script src="assets/js/jquery.js"></script>
+        <script src="assets/js/main-menu.js"></script>
+        <script src="assets/js/category.js"></script>
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <main id="site-main" class="container-fluid">
+            <header id="main-header">
+                <div id="main-ads-content"></div>
+                <div id="header-top">
+
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide slide1"></div>
+                            <div class="swiper-slide slide2"></div>
+                            <div class="swiper-slide slide3"></div>
+                        </div>
+                        <!-- Add Pagination -->
+
+                        <!--<div class="swiper-pagination"></div>-->
+                    </div>                        
+
+
+                    <div class="inner-content">
+                        <div class="logo col-lg-8 col-md-6">
+                            <div class="inner">
+                                <h1><span class="first">Jak</span>prawnie<span class="last">.pl</span></h1>
+
+                                <h2 class="slide-entry slide-entry-0 active">Potrzebujesz<br>porady prawnej?<br>Zadaj pytanie.</h2>
+                                <h2 class="slide-entry slide-entry-1">Lorem<br>ipsum?<br>Zadaj pytanie.</h2>
+                                <h2 class="slide-entry slide-entry-2">Potrzebujesz<br>porady?<br>Zadaj pytanie.</h2>
+                            </div>
+                        </div>
+                        <div class="porada-form col-lg-4 col-md-6">
+                            <div class="inner">
+                                <h3>Porada prawna on-line</h3>
+                                <form class="" method="post">
+                                    <ul>
+                                        <li><input type="text" value="" placeholder="Imię, Nazwisko"></li>
+                                        <li><input type="text" value="" placeholder="E-mail"></li>
+                                        <li><input type="text" value="" placeholder="Nr telefonu"></li>
+                                        <li> <textarea rows="7" cols="10" placeholder="Treść"></textarea></li>
+                                        <li class="text-right"><input type="submit" value="Wyślij zapytanie"></li>
+                                    </ul>
+                                </form>
+                            </div>
+                        </div>  
+                    </div>
+                </div>
+                <nav id="header-nav">
+                    <div class="main-menu col-lg-8 col-md-12">
+                        <ul id="main-menu-ul">
+                            <li id="a-prawo-dla-kazdego" class="col-lg-2 col-md-2 active"><img src="./assets/img/prawo-dla-kazdego-hover.png">
+                                <p>Prawo dla każdego</p></li>
+                            <li id="a-prawo-dla-firm" class="col-lg-2 col-md-2"><img src="./assets/img/prawo-dla-firm.png">
+                                <p>Prawo dla firm</p></li>
+                            <li id="a-wzory-pism" class="col-lg-2 col-md-2"><img src="./assets/img/wzory-pism.png">
+                                <p>Wzory pism</p></li>
+                            <li id="a-encyklopedia-prawna" class="col-lg-2 col-md-2"><img src="./assets/img/encyklopedia-prawa.png">
+                                <p>Encyklopedia prawa</p></li>
+                            <li id="a-oferta" class="col-lg-2 col-md-2"><img src="./assets/img/oferta.png">
+                                <p>Oferta</p></li>
+                            <li id="a-kontakt" class="col-lg-2 col-md-2"><img src="./assets/img/kontakt.png">
+                                <p>Kontakt</p></li>                            
+                        </ul>
+
+                        <i id="show-menu" class="fa fa-bars"></i>
+                    </div>
+                    <div class="sidebar-header-menu col-lg-4 hidden-md">
+                        <div class="header-search col-lg-5 nopad">
+                            <ul>
+                                <li class=" search-form">
+                                    <form>
+                                        <input class="input-search" type="text" value="">
+                                        <i class="fa fa-search"></i>
+                                    </form>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-7 noright social-menu">
+                            <ul>
+                                <li class="col-lg-3"><i class="fa fa-facebook"></i>
+                                </li>
+                                <li class="col-lg-3"><i class="fa fa-twitter"></i>
+                                </li>
+                                <li class="col-lg-3"><i class="fa fa-google-plus"></i>
+                                </li>
+                                <li class="col-lg-3"><i class="fa fa-rss"></i>
+                                </li>
+                            </ul>    
+                            
+                            <a id="show-social" href="#"></a>
+                        </div>
+                    </div>
+                    
+                </nav>
+                
+                
+                
+                <nav class="mobile-menu">
+                    
+                    <ul>
+                        
+                        <li class="active"><a href="#">Prawo dla każdego</a></li>
+                        <li><a href="#">Prawo dla firm</a></li>
+                        <li><a href="#">Wzory pism</a></li>
+                        <li><a href="#">Encyklopedia prawa</a></li>
+                        <li><a href="#">Oferta</a></li>
+                        <li><a href="#">Kontakt</a></li>
+                        
+                    </ul>
+                    
+                </nav>
+                
+                
+                
+                
+                <div class="dropdown" id="dropdown-prawo-dla-kazdego">
+                    
+                    <div class="col-lg-6 col-md-6 border-r">
+                        
+                        <div class="col-lg-6 col-md-6">
+                            
+                            <nav class="left-nav">
+                                
+                                <ul>
+                                
+                                    <li><a id="a-pdk-administracyjne" href="">Administracyjne<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-budowlane" href="">Budowlane<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-prawo-rodzinne" href="">Prawo rodzinne<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-prawo-pracy" href="">Prawo pracy<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-konsumenci" href="">Konsumenci<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-cywilne" href="">Cywilne<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-karne" href="">Karne<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-mieszkaniowe" href="">Mieszkaniowe<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-ubezpieczenia" href="">Ubezpieczenia<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-spadki" href="">Spadki<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a id="a-pdk-prawo-autorskie" href="">Prawo autorskie<i class="fa fa-angle-right"></i></a></li>
+                                
+                                </ul>
+                                
+                            </nav>
+                            
+                        </div>
+                        
+                        
+                        <div class="col-lg-6 col-md-6">
+                            
+                            <nav class="right-nav">
+                                
+                                <div class="submenu" id="box-pdk-prawo-rodzinne">
+                                
+                                    <ul>
+
+                                        <li><a href="#">Alimenty</a></li>
+                                        <li><a href="#">Rozwód</a></li>
+                                        <li><a href="#">Separacja</a></li>
+                                        <li><a href="#">Ustroje majątkowe</a></li>
+                                        <li><a href="#">Podział majątku</a></li>
+                                        <li><a href="#">Rodzice i dzieci</a></li>
+                                        <li><a href="#">Opieka</a></li>
+                                        <li><a href="#">Kuratela</a></li>
+
+                                    </ul>
+
+                                    <a class="see-all" href="#">ZOBACZ WSZYSTKIE</a>
+                                
+                                </div>
+                                
+                            </nav>
+                            
+                        </div>
+                        
+                    </div> 
+                    
+                    
+                    <div class="col-lg-6 col-md-6">
+                        
+                        <h5>OSTATNIE POSTY</h5>
+                        
+                        <div class="col-lg-6 col-md-6 article-box">
+                            
+                            <img src="./assets/img/recent-1.jpg" alt="">
+                            
+                            <h4>Sejm przyjął nową ustawę węglową</h4>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus
+                            augue pulvinar et. Sed ut perspiciatis unde
+                            omnis iste natus error sit voluptatem
+                            accusantium doloremque laudantium, totam
+                            rem aperiam, eaque ips.
+                            <a class="read-more" href="#">czyt. więcej</a></p>
+                            
+                        </div>
+                        
+                        <div class="col-lg-6 col-md-6 article-box">
+                            
+                            <img src="./assets/img/recent-2.jpg" alt="">
+                            
+                            <h4>Sejm przyjął nową ustawę węglową</h4>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus
+                            augue pulvinar et. Sed ut perspiciatis unde
+                            omnis iste natus error sit voluptatem
+                            accusantium doloremque laudantium, totam
+                            rem aperiam, eaque ips.
+                            <a class="read-more" href="#">czyt. więcej</a></p>
+                            
+                        </div>
+                        
+                        <div class="col-lg-6 col-md-6 article-box">
+                            
+                            <img src="./assets/img/recent-3.jpg" alt="">
+                            
+                            <h4>Sejm przyjął nową ustawę węglową</h4>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus
+                            augue pulvinar et. Sed ut perspiciatis unde
+                            omnis iste natus error sit voluptatem
+                            accusantium doloremque laudantium, totam
+                            rem aperiam, eaque ips.
+                            <a class="read-more" href="#">czyt. więcej</a></p>
+                            
+                        </div>
+                        
+                        <div class="col-lg-6 col-md-6 article-box">
+                            
+                            <img src="./assets/img/recent-4.jpg" alt="">
+                            
+                            <h4>Sejm przyjął nową ustawę węglową</h4>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus
+                            augue pulvinar et. Sed ut perspiciatis unde
+                            omnis iste natus error sit voluptatem
+                            accusantium doloremque laudantium, totam
+                            rem aperiam, eaque ips.
+                            <a class="read-more" href="#">czyt. więcej</a></p>
+                            
+                        </div>
+                                
+                        <a class="see-all-2" href="#">ZOBACZ WSZYSTKIE</a>
+                        
+                    </div>
+                    
+                </div> <!-- DROPDOWN PRAWO DLA KAŻDEGO -->
+                
+                
+                <div class="dropdown" id="dropdown-prawo-dla-firm">
+                    
+                    <div class="col-lg-6 col-md-6 border-r">
+                        
+                        <div class="col-lg-6 col-md-6">
+                            
+                            <nav class="left-nav">
+                                
+                                <ul>
+                                
+                                    <li><a id="a-pdf-administracyjne" href="">Administracyjne<i class="fa fa-angle-right"></i></a></li>
+                                
+                                </ul>
+                                
+                            </nav>
+                            
+                        </div>
+                        
+                        
+                        <div class="col-lg-6 col-md-6">
+                            
+                            <nav class="right-nav">
+                                
+                                <div class="submenu" id="box-pdf-administracyjne">
+                                
+                                    <ul>
+
+                                        <li><a href="#">Alimenty</a></li>
+
+                                    </ul>
+
+                                    <a class="see-all" href="#">ZOBACZ WSZYSTKIE</a>
+                                
+                                </div>
+                                
+                            </nav>
+                            
+                        </div>
+                        
+                    </div> 
+                    
+                    
+                    <div class="col-lg-6 col-md-6">
+                        
+                        <h5>OSTATNIE POSTY</h5>
+                        
+                        <div class="col-lg-6 col-md-6 article-box">
+                            
+                            <img src="./assets/img/recent-1.jpg" alt="">
+                            
+                            <h4>Sejm przyjął nową ustawę węglową</h4>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus
+                            augue pulvinar et. Sed ut perspiciatis unde
+                            omnis iste natus error sit voluptatem
+                            accusantium doloremque laudantium, totam
+                            rem aperiam, eaque ips.
+                            <a class="read-more" href="#">czyt. więcej</a></p>
+                            
+                        </div>
+                                
+                        <a class="see-all-2" href="#">ZOBACZ WSZYSTKIE</a>
+                        
+                    </div>
+                    
+                </div> <!-- DROPDOWN PRAWO DLA FIRM -->
+                
+                
+                <div class="dropdown" id="dropdown-wzory-pism">
+                    
+                    <div class="col-lg-6 col-md-6 border-r">
+                        
+                        <div class="col-lg-6 col-md-6">
+                            
+                            <nav class="left-nav">
+                                
+                                <ul>
+                                
+                                    <li><a id="a-wp-administracyjne" href="">Administracyjne<i class="fa fa-angle-right"></i></a></li>
+                                
+                                </ul>
+                                
+                            </nav>
+                            
+                        </div>
+                        
+                        
+                        <div class="col-lg-6 col-md-6">
+                            
+                            <nav class="right-nav">
+                                
+                                <div class="submenu" id="box-wp-administracyjne">
+                                
+                                    <ul>
+
+                                        <li><a href="#">Alimenty</a></li>
+
+                                    </ul>
+
+                                    <a class="see-all" href="#">ZOBACZ WSZYSTKIE</a>
+                                
+                                </div>
+                                
+                            </nav>
+                            
+                        </div>
+                        
+                    </div> 
+                    
+                    
+                    <div class="col-lg-6 col-md-6">
+                        
+                        <h5>OSTATNIE POSTY</h5>
+                        
+                        <div class="col-lg-6 col-md-6 article-box">
+                            
+                            <img src="./assets/img/recent-1.jpg" alt="">
+                            
+                            <h4>Sejm przyjął nową ustawę węglową</h4>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus
+                            augue pulvinar et. Sed ut perspiciatis unde
+                            omnis iste natus error sit voluptatem
+                            accusantium doloremque laudantium, totam
+                            rem aperiam, eaque ips.
+                            <a class="read-more" href="#">czyt. więcej</a></p>
+                            
+                        </div>
+                                
+                        <a class="see-all-2" href="#">ZOBACZ WSZYSTKIE</a>
+                        
+                    </div>
+                    
+                </div> <!-- DROPDOWN WZORY PISM -->
+                
+                
+                <div class="dropdown" id="dropdown-oferta">
+                    
+                    <div class="col-lg-6 col-md-6 border-r">
+                        
+                        <div class="col-lg-6 col-md-6">
+                            
+                            <nav class="left-nav">
+                                
+                                <ul>
+                                
+                                    <li><a id="a-o-administracyjne" href="">Administracyjne<i class="fa fa-angle-right"></i></a></li>
+                                
+                                </ul>
+                                
+                            </nav>
+                            
+                        </div>
+                        
+                        
+                        <div class="col-lg-6 col-md-6">
+                            
+                            <nav class="right-nav">
+                                
+                                <div class="submenu" id="box-o-administracyjne">
+                                
+                                    <ul>
+
+                                        <li><a href="#">Alimenty</a></li>
+
+                                    </ul>
+
+                                    <a class="see-all" href="#">ZOBACZ WSZYSTKIE</a>
+                                
+                                </div>
+                                
+                            </nav>
+                            
+                        </div>
+                        
+                    </div> 
+                    
+                    
+                    <div class="col-lg-6 col-md-6">
+                        
+                        <h5>OSTATNIE POSTY</h5>
+                        
+                        <div class="col-lg-6 col-md-6 article-box">
+                            
+                            <img src="./assets/img/recent-1.jpg" alt="">
+                            
+                            <h4>Sejm przyjął nową ustawę węglową</h4>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus
+                            augue pulvinar et. Sed ut perspiciatis unde
+                            omnis iste natus error sit voluptatem
+                            accusantium doloremque laudantium, totam
+                            rem aperiam, eaque ips.
+                            <a class="read-more" href="#">czyt. więcej</a></p>
+                            
+                        </div>
+                                
+                        <a class="see-all-2" href="#">ZOBACZ WSZYSTKIE</a>
+                        
+                    </div>
+                    
+                </div> <!-- DROPDOWN OFERTA -->
+                
+                
+                
+                
+                
+                
+            </header>
+            <div id="main-content">
+                
+                <div class="path">
+                    
+                    <a href="#">strona główna</a> 
+                    <p>&GT;&GT;</p>
+                    <a href="#">kategoria</a> 
+                    <p>&GT;&GT;</p>
+                    <a href="#">podkategoria</a> 
+                    
+                </div>
+                
+                <div class="content-container col-lg-7 col-md-6 noright">
+                    
+                    <div class="col-lg-12 noleft">
+                            
+                        <div class="title-bar">
+                                
+                            <h1><strong>NAJNOWSZE</strong> POSTY</h1>
+                                
+                        </div>
+                            
+                    </div>
+                    
+                    <div class="page-article-content col-lg-12">
+                        
+                        <img class="main-image" src="./assets/img/podstrona-img.png" alt="">
+                        
+                        <h2>JAKPRAWNIE dochodzić odszkodowania za wypadek przy pracy?</h2>
+                        
+                        <div class="cat-info">
+                            
+                            <h3 class="date">05.01.2015</h3>
+                            <h3 class="category">Prawo pracy</h3>
+                            
+                        </div>
+                        
+                        <div class="text-content">
+                            
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a mi quis felis luctus rhoncus. Fusce euismod dignissim diam, ut faucibus augue pulvinar et. Lorem ipsum dolor sit amet, pri etiam tritani mediocritatem in, ne veniam utroque concludaturque nam. 
+
+</p><p>No his saepe luptatum. Mel quodsi partiendo contentiones in. Recusabo voluptatibus ei cum, at vim sonet oratio delicatissimi, debet sententiae ea sed. Ei has civibus officiis persequeris, ea ius dicunt pertinax invenire, atomorum principes dissentias te qui. An eos eripuit fabulas, etiam suscipit partiendo mea eu.
+
+</p><p>Vero sadipscing cum cu, mel in oportere persecuti omittantur, impetus inimicus neglegentur ne has. Eu soluta commodo ius. Ne minimum singulis his, an pri illum vocent voluptatum. Reque facete eos at, ea novum ullamcorper pri, te vel autem assueverit.
+
+</p><p>Vis eruditi denique ad. Te quas nihil has, ei regione facilisis expetenda cum, ut minimum facilisi reprimique mel. Ex vel quem propriae copiosae, ius et nibh cetero. Eam nemore sensibus ex, eam te alia stet persius. Quem vivendo adolescens mea et.
+
+</p><p>Vel et recusabo concludaturque. Eos eruditi aliquando eu. Iudico epicurei vix ne, utamur tacimates ei duo. An cibo admodum nusquam pro, choro hendrerit has ex.
+
+</p><p>Et alienum principes mea. Voluptua instructior ut mea, te sed agam eleifend persequeris. At vel tantas inermis percipit, appetere insolens et vim. No aeque probatus necessitatibus pri.
+
+</p><p>Vis eruditi denique ad. Te quas nihil has, ei regione facilisis expetenda cum, ut minimum facilisi reprimique mel. Ex vel quem propriae copiosae, ius et nibh cetero. Eam nemore sensibus ex, eam te alia stet persius. Quem vivendo adolescens mea et.
+
+</p><p>Vel et recusabo concludaturque. Eos eruditi aliquando eu. Iudico epicurei vix ne, utamur tacimates ei duo. An cibo admodum nusquam pro, choro hendrerit has ex.
+
+</p><p>Et alienum principes mea. Voluptua instructior ut mea, te sed agam eleifend persequeris. At vel tantas inermis percipit, appetere insolens et vim. No aeque probatus necessitatibus pri.</p>
+                            
+                        </div>
+                        
+                        <div class="social">
+                            
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-google-plus"></i></a>
+                            
+                        </div>
+                        
+                    </div>
+                    
+                    
+                    <div class="article-contact-form">
+                        
+                        <form action="#" method="post">
+                            
+                            <h4>POTRZEBUJESZ POMOCY</h4>
+                            
+                            <div class="col-lg-5 col-md-5">
+                                
+                                <div class="form-group"><input type="text" name="imie_nazwisko" placeholder="Imię, nazwisko"></div>
+                                <div class="form-group"><input type="email" name="email" placeholder="Adres e-mail"></div>
+                                <div class="form-group"><input type="tel" name="tel" placeholder="Nr telefonu"></div>
+                                
+                            </div>
+                            
+                            <div class="col-lg-5 col-md-5">
+                                
+                                <textarea name="wiadomosc" placeholder="Treść wiadomości"></textarea>
+                                
+                                <a href="#">ZADAJ PYTANIE</a>
+                                
+                            </div>
+                                                            
+                        </form>
+                        
+                    </div>
+                    
+                    
+                    <div class="article-comments-box">
+                        
+                        <div class="comments">
+                            
+                            <div class="title">
+                                
+                                <i class="fa fa-comment"></i>
+                                <h4>KOMENTARZE</h4>
+                                
+                            </div>
+
+                            
+                            <div class="comments-box">
+                                
+                                <div class="comment">
+                                    
+                                    <div class="top">
+                                        
+                                        <div class="date">2015-12-22 12:19</div>
+                                        <h5>Jak prawnie dochodzić odszkodowania za wypadek przy pracy?</h5>
+                                        <div class="author"><i class="fa fa-user"></i>Jan Kowalski</div>
+                                        
+                                    </div>
+                                    
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a mi quis felisLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a mi quis felis luctus rhoncus. </p>
+                                    
+                                </div>
+                                
+                            </div>
+                            
+                            <a id="more-comments" href="#"><i class="fa fa-plus"></i></a>
+                            
+                        </div>
+                        
+                        
+                        <div class="add-comment">
+                            
+                            <div class="title">
+                                
+                                <i class="fa fa-plus"></i>
+                                <h4>DODAJ KOMENTARZ</h4>
+                                
+                            </div>
+                            
+                            <form action="#" method="post">
+                                
+                                <div class="form-group"><input type="text" name="podpis" placeholder="Podpis" required></div>
+                                <div class="form-group"><input type="email" name="podpis" placeholder="E-mail" required></div>
+                                
+                                <div class="form-group"><textarea name="wiadomosc" placeholder="Treść wiadomości" required></textarea></div>
+                                
+                                <div class="form-group">
+                                    
+                                    <input id="std_add_comment" style="display: none;" type="submit" value="WYŚLIJ">
+                                    <a id="add_comment" href="#">WYŚLIJ</a>
+                                    
+                                </div>
+                                
+                            </form>
+                            
+                        </div>
+                        
+                    </div>
+                    
+                    
+                    <div class="similar-posts">
+                        
+                        <h4><strong>ZOBACZ</strong> PODOBNE POSTY</h4>
+                        
+                        <div class="post">
+                            
+                            <img src="./assets/img/similar-posts-img.png" alt="">
+                            
+                            <h5>Sejm przyjął nową ustawę węglową</h5>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus augue pulvinar et. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ips 
+                            <a class="read-more" href="#">czyt. więcej&GT;&GT;</a></p>
+                            
+                            
+                        </div>
+                        
+                        <div class="post">
+                            
+                            <img src="./assets/img/similar-posts-img.png" alt="">
+                            
+                            <h5>Sejm przyjął nową ustawę węglową</h5>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus augue pulvinar et. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ips 
+                            <a class="read-more" href="#">czyt. więcej&GT;&GT;</a></p>
+                            
+                            
+                        </div>
+                        
+                        <div class="post">
+                            
+                            <img src="./assets/img/similar-posts-img.png" alt="">
+                            
+                            <h5>Sejm przyjął nową ustawę węglową</h5>
+                            
+                            <p>Fusce euismod dignissim diam, ut faucibus augue pulvinar et. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ips 
+                            <a class="read-more" href="#">czyt. więcej&GT;&GT;</a></p>
+                            
+                            
+                        </div>
+                        
+                        
+                        <a class="see-more" href="#">ZOBACZ WIĘCEJ <i class="fa fa-plus"></i></a>
+                        
+                    </div>
+                    
+                </div>
+                <aside class="sidebar-container col-lg-5 col-md-6 noleft">
+                    
+                    <div class="title-bar">
+                                
+                        <h2><strong>KATEGORIE</strong></h2>
+                                
+                    </div>
+                    
+                    
+                    <div class="category-box">
+                        
+                        <a id="a-cat-prawo-cywilne" href="#"><i class="fa fa-plus"></i>Prawo cywilne</a>
+                        <ul id="box-cat-prawo-cywilne">
+                            
+                            <li><strong>Wszystkie</strong></li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            
+                        </ul>
+                        
+                        <a id="a-cat-prawo-karne" href="#"><i class="fa fa-plus"></i>Prawo karne</a>
+                        <ul id="box-cat-prawo-karne">
+                            
+                            <li><strong>Wszystkie</strong></li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            
+                        </ul>
+                        
+                        <a id="a-cat-prawo-administracyjne" href="#"><i class="fa fa-plus"></i>Prawo administracyjne</a>
+                        <ul id="box-cat-prawo-administracyjne">
+                            
+                            <li><strong>Wszystkie</strong></li>
+                            <li>Lorem ipsum</li>
+                            <li>Lorem ipsum</li>
+                            
+                        </ul>
+                        
+                    </div>
+                    
+                    
+                    <div class="offer-box">
+                        
+                        <a class="info" href="kontakt/">
+                            
+                            <div>
+                                
+                                Chcesz dowiedzieć się więcej?<br>
+                                Napisz!
+                                
+                                <img src="./assets/img/offer-box-info.png" alt="">
+                                
+                            </div>
+                            
+                        </a>
+                        
+                        <a class="pismo" href="kontakt/">
+                            
+                            <div>
+                                
+                                Potrzebujesz pisma?<br>
+                                napiszemy je dla ciebie!
+                            
+                                <img src="./assets/img/offer-box-pismo.png" alt="">
+                                
+                            </div>
+                            
+                        </a>
+                        
+                        <a class="pelnomocnik" href="kontakt/">
+                            
+                            <div>
+                                
+                                Szukasz pełnomocnika?<br>
+                                służymy pomocą!
+                            
+                                <img src="./assets/img/offer-box-pelnomocnik.png" alt="">
+                                
+                            </div>
+                            
+                        </a>
+                        
+                    </div>
+                    
+                    
+                    <div id="ads-box-1"><h3>Miejsce na reklamę</h3></div>
+                    <div id="newsletter-box">
+                        <!-- Swiper -->
+                        <div class="swiper-container">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide"><img class="img-responsive" src="./assets/img/newsletter1.png" alt=""></div>
+                                <div class="swiper-slide"><img class="img-responsive" src="./assets/img/newsletter1.png" alt=""></div>
+                                <div class="swiper-slide"><img class="img-responsive" src="./assets/img/newsletter1.png" alt=""></div>
+                            </div>
+                            <!-- Add Pagination -->
+                            <div class="swiper-pagination"></div>
+                        </div>
+
+
+                        <div class="newsletter-form">
+                            <form>
+                                <input type="text" placeholder="Zapisz się do newslettera" value="">
+                                <i class="fa fa-envelope-o"></i>
+                            </form>
+                        </div>
+
+                    </div>
+                </aside>
+                
+            </div>
+        </main>
+
+        <footer id="main-footer">
+            
+            <div class="container">
+            
+                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+
+                    <div class="top">
+
+                        <a class="logo" href="/"></a>
+
+                    </div>
+
+                    <div class="sep">----</div>
+
+                    <div class="content">
+
+                        <p>
+                            jakprawnie.pl sp. z o.o.<br>
+                            Grupa Konsensus sp. z o.o.<br>
+                            ul. Słowackiego 4/4, <br>
+                            32-500 Chrzanów<br>
+                            502 635 446
+                        </p>
+
+                        <div class="social">
+                            
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-google-plus"></i></a>
+                            <a href="#"><i class="fa fa-rss"></i></a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+
+                    <div class="top">
+
+                        <h4>NASZA OFERTA</h4>
+
+                    </div>
+
+                    <div class="sep">----</div>
+
+                    <div class="content">
+
+                        <ul>
+
+                            <li><a href="#">Prawo dla każdego</a></li>
+                            <li><a href="#">Oferta</a></li>
+                            <li><a href="#">Prawo dla firm</a></li>
+                            <li><a href="#">Kontakt</a></li>
+                            <li><a href="#">Wzory pism</a></li>
+                            <li><a href="#">Encyklopedia prawa</a></li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+
+                    <div class="top">
+
+                        <h4>SKONTAKTUJ SIĘ</h4>
+
+                    </div>
+
+                    <div class="sep">----</div>
+
+                    <div class="content">
+
+                        <ul>
+
+                            <li><a href="#">Zleć sprawę</a></li>
+                            <li><a href="#">Zadaj pytanie</a></li>
+                            <li><a href="#">Zamów pismo</a></li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+
+                    <div class="top">
+
+                        <h4>NEWSLETTER</h4>
+
+                    </div>
+
+                    <div class="sep">----</div>
+
+                    <div class="content">
+
+                        <form action="#" method="post">
+
+                            <div class="form-group">
+
+                                <input type="email" name="email" placeholder="Adres e-mail" required>
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <input type="checkbox" name="zgoda" required>
+                                <label>Wyrażam zgodę na otrzymywanie informacji drogą elektroniczną</label>
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <input type="submit" value="Zapisz">
+
+                            </div>
+
+                        </form>
+
+                    </div>
+
+                </div>
+                
+            </div>
+            
+        </footer>
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="assets/bower_components/Swiper/dist/js/swiper.jquery.min.js"></script>  
+        <script src="assets/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js"></script>
+        <script src="assets/js/custom.js"></script>  
+    </body>
+</html>

@@ -1,0 +1,40 @@
+C:34:"Phalcon\Mvc\Model\Resultset\Simple":8021:{a:5:{s:5:"model";C:48:"Publication\Model\Translate\PublicationTranslate":76:{a:5:{s:2:"id";N;s:10:"foreign_id";N;s:4:"lang";N;s:3:"key";N;s:5:"value";N;}}s:5:"cache";N;s:4:"rows";a:4:{i:0;a:5:{s:2:"id";s:3:"204";s:10:"foreign_id";s:2:"43";s:4:"lang";s:2:"pl";s:3:"key";s:5:"title";s:5:"value";s:26:"Jak obniżyć składki ZUS";}i:1;a:5:{s:2:"id";s:3:"205";s:10:"foreign_id";s:2:"43";s:4:"lang";s:2:"pl";s:3:"key";s:7:"excerpt";s:5:"value";s:417:"<p style="text-align: justify;"><span style="font-size: 16px;">Każdy przedsiębiorca wiele razy zastanawia się i głowi jak obniżyć składki ZUS. Jest to pytanie, kt&oacute;re zadaje sobie każdy kto odprowadza składki ZUS. Ot&oacute;ż być może jest wiele sposob&oacute;w, ale czy są one legalne z punktu widzenia prawa? Każdy ponosi ryzyko takie jakie jest skłonne zaakceptować, ale czy warto?</span></p>";}i:2;a:5:{s:2:"id";s:3:"206";s:10:"foreign_id";s:2:"43";s:4:"lang";s:2:"pl";s:3:"key";s:4:"text";s:5:"value";s:6843:"<p style="text-align: justify;"><span style="font-size: 16px;">Każdy przedsiębiorca wiele razy zastanawia się i głowi jak obniżyć składki ZUS. Jest to pytanie, kt&oacute;re zadaje sobie każdy kto odprowadza składki ZUS. Ot&oacute;ż być może jest wiele sposob&oacute;w, ale czy są one legalne z punktu widzenia prawa? Każdy ponosi ryzyko takie jakie jest skłonne zaakceptować, ale czy warto?</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Obecnie składka na ZUS wynosi:</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-size: 16px;">Ubezpieczenie społeczne: 754,67 zł,</span></li>
+<li><span style="font-size: 16px;">Ubezpieczenie zdrowotne: 279,41 zł,</span></li>
+<li><span style="font-size: 16px;">Fundusz Pracy: 58,20 zł.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-size: 16px;">Podane kwoty obejmują obciążenie dobrowolną składką na ubezpieczenie chorobowe.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Łącznie jest to kwota 1092,28 zł.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Podmioty objęte obowiązkiem ubezpieczenia społecznego zostały wskazane w Rozdziale 2. ustawy o systemie ubezpieczeń społecznych. Jednakże okazuje się, że nie każda osoba wymieniona w ustawie musi podlegać polskiemu systemowi ubezpieczeń społecznych. Zastosowanie mogą bowiem znaleźć regulacje międzynarodowe dotyczące koordynacji system&oacute;w zabezpieczenia społecznego. Zasadą tych regulacji jest odprowadzanie składek na ubezpieczenie społeczne tylko w jednym państwie. Dotyczy to szczeg&oacute;lnie tych os&oacute;b, kt&oacute;re prowadzą działalność gospodarczą w kilku krajach lub np. prowadzą działalność gospodarczą i wykonują pracę r&oacute;żnych państwach.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">W przypadku takich os&oacute;b należy ustalić kt&oacute;re ustawodawstwo będzie właściwe. Mogą tu znaleźć zastosowanie r&oacute;żne przepisy w zależności od tego czy polski przedsiębiorca wykonuje pracę w kraju należącym do UE czy też spoza UE. Niemniej regułą w obu przypadkach jest obowiązek odprowadzania składek na ubezpieczenie społeczne w tym Państwie, w kt&oacute;rym wykonywana jest praca.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Przechodząc do meritum tematu: Jak zmniejszyć składki ZUS?</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-size: 16px;">PŁACIĆ SKŁADKI ZA GRANICĄ</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-size: 16px;">W uproszczeniu:&nbsp; polski przedsiębiorca powinien znaleźć zatrudnienie za granicą. Osoba wykonująca pracę najemną i na własny rachunek podlega ustawodawstwu Państwa w kt&oacute;rym wykonuje pracę najemną. Koszt składki ok. 400 zł, taką usługę oferuje wiele pośrednik&oacute;w. Sąd Najwyższy uznał że ZUS nie może kwestionować takich zagranicznych etat&oacute;w. UWAGA: organy kontroli za granicą mogą to podważyć.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Osoba prowadząc działalność gospodarczą w Polsce i r&oacute;wnocześnie zatrudniona na podstawie umowy o pracę za granicą (w kraju UE) nie ma obowiązku odprowadzania składek z tytułu prowadzenia działalności w Polsce tylko z umowy o pracę za granicą. Podlega ubezpieczeniu w kraju, w kt&oacute;rym pracuje na etacie.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Oczywiście ZUS może podważyć taką decyzję i zażądać dowod&oacute;w na to że praca jest rzeczywiście wykonywana za granicą np. bilety przejazdu.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Jednak Sąd Najwyższy uznał iż :</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;"><em>"Osoba podejmująca pracę w innym państwie Unii podlega w zakresie ubezpieczeń społecznych ustawodawstwu tego państwa członkowskiego, w kt&oacute;rym wykonywana jest praca najemna."</em></span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Co najważniejsze ZUS nie ma kompetencji do kwestionowania zagranicznej umowy, może co najwyżej wystąpić z wnioskiem o zbadanie takiej umowy do instytucji innego państwa.</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-size: 16px;">ZAŁ&Oacute;Ż DZIAŁALNOŚĆ GOSPODARCZĄ ZA GRANICĄ</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-size: 16px;">Zakładając działalność gospodarczą za granicą np. w Anglii zyskujemy bardzo dużo. M. in. składka na ZUS wynosi 50 zł, emerytura minimalna na poziomie ok. 2500 zł, kwita wolna od podatku dochodowego ok. 60 000 (w Polsce 3100), możliwość otworzenia oddziału firmy w Polsce.</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-size: 16px;">PRZEKSZTAŁCIĆ DZIAŁALNOŚĆ GOSPODARCZĄ W SP&Oacute;ŁKĘ Z O.O.</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-size: 16px;">Sprzedać udziały sp&oacute;łki więcej niż 1 osobie. Prezes zarządu wykonuje w tym przypadku swoje obowiązki na podstawie powołania i nie odprowadza składek ZUS.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Nie obawiajmy się w tym przypadku obowiązku posiadania kapitału zakładowego 5 tys. zł bowiem nie muszą być te pieniądze lokowane na koncie. Są to środki zadeklarowane jako dostępne, można nimi obracać.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Minusem mogą być koszty prowadzenia pełnej księgowości (niekoniecznie są to jednak wysokie koszta).</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Wbrew opiniom nie należy obawiać się założenia sp&oacute;łki z o.o.</span></p>
+<ul style="text-align: justify;">
+<li><span style="font-size: 16px;">PRZEJDŹ DO KRUS</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-size: 16px;">Spos&oacute;b przejścia do KRUS: kupno 1 hektara przeliczeniowego ziemi i wykazanie się działalnością rolniczą</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">-DO NIEDAWNA! Po 3 latach można prowadzić działalność gospodarczą.</span></p>
+<p style="text-align: justify;"><span style="font-size: 16px;">Wystarczy kupić udział w gospodarstwie rolnym i płacić kwartalnie 378 zł.</span></p>
+<h3 style="text-align: justify;"><span style="font-size: 16px;">Podsumowując, zastan&oacute;w się jaka forma jest dla Ciebie najkorzystniejsza, jakie masz możliwości. Przeanalizuj wszystkie za i przeciw. Być może Twoja firma może dużo zaoszczędzić.</span></h3>
+<p class="Standard">&nbsp;</p>";}i:3;a:5:{s:2:"id";s:3:"207";s:10:"foreign_id";s:2:"43";s:4:"lang";s:2:"pl";s:3:"key";s:10:"meta_title";s:5:"value";s:26:"Jak obniżyć składki ZUS";}}s:9:"columnMap";N;s:11:"hydrateMode";i:0;}}

@@ -1,0 +1,901 @@
+s:67154:" 
+<nav id="header-nav">                       
+
+    <div class="main-menu col-lg-8 col-md-12">
+        <ul id="main-menu-ul">
+            
+                        <li id="menu-item-1" class="col-lg-2 col-md-2"><img src="/assets/img/menu-item-1.png">
+
+                                   <a class="noajax" href="http://jakprawnie.local/dom" >
+                                      Prawo dla każdego
+                </a>
+
+                
+        </li>
+                
+                        <li id="menu-item-2" class="col-lg-2 col-md-2"><img src="/assets/img/menu-item-2.png">
+
+                                   <a class="noajax" href="http://jakprawnie.local/biznes" >
+                                      Prawo dla firm
+                </a>
+
+                
+        </li>
+                
+                        <li id="menu-item-3" class="col-lg-2 col-md-2"><img src="/assets/img/menu-item-3.png">
+
+                                <a class="noajax" href="/wzory.html" >
+
+                                      Wzory pism
+                </a>
+
+                
+        </li>
+                
+                        <li id="menu-item-4" class="col-lg-2 col-md-2"><img src="/assets/img/menu-item-4.png">
+
+                                <a class="noajax" href="/encyklopedia" >
+
+                                      Encyklopedia prawa
+                </a>
+
+                
+        </li>
+                
+                        <li id="menu-item-5" class="col-lg-2 col-md-2"><img src="/assets/img/menu-item-5.png">
+
+                                <a class="noajax" href="javascript:void(0)" >
+
+                                      Oferta
+                </a>
+
+                
+        </li>
+                
+                        <li id="menu-item-6" class="col-lg-2 col-md-2"><img src="/assets/img/menu-item-6.png">
+
+                                   <a class="noajax" href="http://jakprawnie.local/kontakt.html" >
+                                      Kontakt
+                </a>
+
+                
+        </li>
+                    </ul>
+
+    <i id="show-menu" class="fa fa-bars"></i>
+</div>
+<div class="sidebar-header-menu col-lg-4 hidden-md">
+    <div class="header-search col-lg-5 nopad">
+        <ul>
+            <li class=" search-form">
+                <form method="POST" action="/publication/wyszukaj">
+                    <input class="input-search" type="text" name="search" value="" required>
+                    <i class="fa fa-search"></i>
+                </form>
+            </li>
+        </ul>
+    </div>
+    <div class="col-lg-7 noright social-menu">
+        <ul>
+            <li class="col-lg-3"><a href="https://www.facebook.com/jakprawnie"><i class="fa fa-facebook"></i></a>
+            </li>
+            <a href="https://twitter.com/jakprawnie"><li class="col-lg-3"><i class="fa fa-twitter"></i></a>
+            </li>
+            <!--  <li class="col-lg-3"><i class="fa fa-google-plus"></i>
+            </li>
+          <li class="col-lg-3"><i class="fa fa-rss"></i>
+            </li>-->
+        </ul>    
+
+        <a id="show-social" href="#"></a>
+    </div>
+</div>
+</nav>
+
+                        
+
+<nav class="mobile-menu">
+    <ul>
+                                    
+                      <li>
+                           <a class="noajax" href="http://jakprawnie.local/dom" >
+                              Prawo dla każdego
+            </a>
+             
+         </li>
+                                                
+                      <li>
+                           <a class="noajax" href="http://jakprawnie.local/biznes" >
+                              Prawo dla firm
+            </a>
+             
+         </li>
+                                                
+                      <li>
+            
+            <a class="noajax" href="/wzory.html" >
+                              Wzory pism
+            </a>
+             
+         </li>
+                                                
+                      <li>
+            
+            <a class="noajax" href="/encyklopedia" >
+                              Encyklopedia prawa
+            </a>
+             
+         </li>
+                                                
+                         <li><a id="a-mobile-oferta" href="javascript:void(0)">Oferta</a></li> 
+                                    <li class="mobile-submenu" id="box-mobile-oferta">
+
+                            <ul>
+
+                                <li><a href="/oferta.html">Dla firm</a></li>
+                                <li><a href="/oferta2.html">Dla osób fizycznych</a></li>
+
+                            </ul>
+
+                        </li> 
+                                                  
+                      <li>
+                           <a class="noajax" href="http://jakprawnie.local/kontakt.html" >
+                              Kontakt
+            </a>
+             
+         </li>
+                    
+</ul>
+
+</nav>
+
+
+                        
+
+
+
+<div class="dropdown" id="dropdown-menu-item-1">
+        <div class="col-lg-6 col-md-6 border-r">   
+
+
+        <div class="col-lg-6 col-md-6">
+
+            <nav class="left-nav">
+                <ul>               
+
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-1" href="http://jakprawnie.local/dom/prawo-rodzinne" >
+                                                      Prawo rodzinne
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-1">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/prawo-rodzinne/alimenty" >Alimenty</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-rodzinne/rozwod" >Rozwód</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-rodzinne/separacja" >Separacja</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-rodzinne/ustroje-majatkowe" >Ustroje majątkowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-rodzinne/podzial-majatku" >Podział majątku</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-rodzinne/rodzice-i-dzieci" >Rodzice i dzieci</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-rodzinne/opieka" >Opieka</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-rodzinne/kuratela" >Kuratela</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/prawo-rodzinne">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-2" href="http://jakprawnie.local/dom/prawo-pracy" >
+                                                      Prawo pracy
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-2">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/prawo-pracy/urlopy" >Urlopy</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-pracy/urlopy-rodzicielskie" >Urlopy rodzicielskie</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-pracy/wynagrodzenia" >Wynagrodzenia</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-pracy/czas-pracy" >Czas pracy</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-pracy/umowa-o-prace" >Umowa o pracę</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-pracy/bhp2" >BHP</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-pracy/odpowiedzialnosc-materialna" >Odpowiedzialność materialna</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-pracy/zwiazki-zawodowe-2" >Związki zawodowe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/prawo-pracy">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-3" href="http://jakprawnie.local/dom/konsumenci" >
+                                                      Konsumenci
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-3">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/konsumenci/sprzedaz-konsumencka" >Sprzedaż konsumencka</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/konsumenci/us-ugi" >Usługi</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/konsumenci/prawo-odstapienia-i-zwrot-towaru" >Prawo odstąpienia i zwrot towaru</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/konsumenci/us-ugi-bankowe-i-ubezpieczeniowe" >Usługi bankowe i ubezpieczeniowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/konsumenci/upad-osc-konsumencka" >Upadłość konsumencka</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/konsumenci/pozsta-e-3" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/konsumenci">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-4" href="http://jakprawnie.local/dom/spadki" >
+                                                      Spadki
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-4">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/spadki/dziedziczenie-ustawowe" >Dziedziczenie ustawowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/spadki/testament" >Testament</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/spadki/odpowiedzialnosc-za-d-ugi" >Odpowiedzialność za długi</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/spadki/postepowanie-spadkowe" >Postępowanie spadkowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/spadki/zachowek" >Zachowek</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/spadki/pozosta-e4" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/spadki">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-5" href="http://jakprawnie.local/dom/cywilne" >
+                                                      Cywilne
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-5">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/cywilne/dobra-osobiste" >Dobra osobiste</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/cywilne/umowy" >Umowy</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/cywilne/przedawnienie" >Przedawnienie</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/cywilne/hipoteka" >Hipoteka</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/cywilne/nieruchomosci" >Nieruchomości</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/cywilne/w-asnosc-i-uzytkowanie-wieczyste" >Własność i użytkowanie wieczyste</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/cywilne/s-uzebnosc" >Służebność</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/cywilne/zastaw" >Zastaw</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/cywilne">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-6" href="http://jakprawnie.local/dom/prawo-karne" >
+                                                      Karne
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-6">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/prawo-karne/przestepstwo" >Przestępstwo</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-karne/wykroczenia" >Wykroczenia</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-karne/apelacja" >Apelacja</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-karne/mandat" >Mandat</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-karne/wyrok" >Wyrok</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-karne/prawo-drogowe" >Prawo drogowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-karne/zatrzymanie" >Zatrzymanie</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/prawo-karne/przeszukanie" >Przeszukanie</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/prawo-karne">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-7" href="http://jakprawnie.local/dom/budowlane" >
+                                                      Budowlane
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-7">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/budowlane/pozwolenie-na-budowe" >Pozwolenie na budowę</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/budowlane/zagospodarowanie-przestrzenne" >Zagospodarowanie przestrzenne</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/budowlane/decyzje-srodowiskowe" >Decyzje środowiskowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/budowlane/zg-oszenie-budowy" >Zgłoszenie budowy</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/budowlane/pozosta-e-6" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/budowlane">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-8" href="http://jakprawnie.local/dom/mieszkaniowe" >
+                                                      Mieszkaniowe
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-8">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/mieszkaniowe/spo-dzielnia" >Spółdzielnia</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/mieszkaniowe/tbs" >TBS</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/mieszkaniowe/ochrona-lokatorow" >Ochrona lokatorów</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/mieszkaniowe/najem" >Najem</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/mieszkaniowe/w-asnosc-lokali" >Własność lokali</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/mieszkaniowe/wspo-nota-mieszkaniowa" >Wspołnota mieszkaniowa</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/mieszkaniowe/mdm" >MDM</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/mieszkaniowe/pozosta-e-7" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/mieszkaniowe">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-9" href="http://jakprawnie.local/dom/ubezpieczenia" >
+                                                      Ubezpieczenia
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-9">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/ubezpieczenia/ubezpieczenia-spo-eczne" >Ubezpieczenia społeczne</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/ubezpieczenia/emerytury" >Emerytury</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/ubezpieczenia/renty" >Renty</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/ubezpieczenia/zus" >ZUS</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/ubezpieczenia/krus" >KRUS</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/ubezpieczenia/zasi-ki" >Zasiłki</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/ubezpieczenia/sk-adki" >Składki</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/ubezpieczenia/ubezpieczenia-majatkowe" >Ubezpieczenia majątkowe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/ubezpieczenia">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk1-10" href="http://jakprawnie.local/dom/administracyjne" >
+                                                      Administracyjne
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk1-10">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/dom/administracyjne/akta-stanu-cywilnego" >Akta stanu cywilnego</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/administracyjne/dowody-osobiste" >Dowody osobiste</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/dom/administracyjne/pozosta-e-8" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/dom/administracyjne">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                    </ul>
+
+            </nav>
+
+        </div>
+
+    </div> 
+
+
+    <div class="col-lg-6 col-md-6">
+
+                
+    <h5>Najnowsze artykuły</h5>
+
+            <div class="col-lg-6 col-md-6 article-box">
+
+
+        <a href="http://jakprawnie.local/dom/czy-oplacalne-jest-wspolne-rozliczanie-dochodow-przez-malzonkow.html" title="Czy opłacalne jest wspólne rozliczanie dochodów przez małżonków?" class="title"><div class="last-article-image"
+       style="background-image: url('http://jakprawnie.local/img/original/publication/0/57.jpg');">
+ 
+        </div></a>
+    
+    <a href="http://jakprawnie.local/dom/czy-oplacalne-jest-wspolne-rozliczanie-dochodow-przez-malzonkow.html" title="Czy opłacalne jest wspólne rozliczanie dochodów przez małżonków?" class="title">
+        <h4>Czy opłacalne jest wspólne rozliczanie dochodów przez małżonków?</h4>
+    </a>
+
+    <p>
+    
+</div>
+            <div class="col-lg-6 col-md-6 article-box">
+
+
+        <a href="http://jakprawnie.local/dom/ustalenie-istnienia-stosunku-pracy.html" title="Ustalenie istnienia stosunku pracy" class="title"><div class="last-article-image"
+       style="background-image: url('http://jakprawnie.local/img/original/publication/0/56.jpg');">
+ 
+        </div></a>
+    
+    <a href="http://jakprawnie.local/dom/ustalenie-istnienia-stosunku-pracy.html" title="Ustalenie istnienia stosunku pracy" class="title">
+        <h4>Ustalenie istnienia stosunku pracy</h4>
+    </a>
+
+    <p>
+    
+</div>
+            <div class="col-lg-6 col-md-6 article-box">
+
+
+        <a href="http://jakprawnie.local/dom/swiadczenie-wyrownawcze-w-umowie-agencyjnej.html" title="Świadczenie wyrównawcze w umowie agencyjnej" class="title"><div class="last-article-image"
+       style="background-image: url('http://jakprawnie.local/img/original/publication/0/55.jpg');">
+ 
+        </div></a>
+    
+    <a href="http://jakprawnie.local/dom/swiadczenie-wyrownawcze-w-umowie-agencyjnej.html" title="Świadczenie wyrównawcze w umowie agencyjnej" class="title">
+        <h4>Świadczenie wyrównawcze w umowie agencyjnej</h4>
+    </a>
+
+    <p>
+    
+</div>
+            <div class="col-lg-6 col-md-6 article-box">
+
+
+        <a href="http://jakprawnie.local/dom/czy-wierzyciel-zawsze-moze-wskazac-nowy-podmiot-na-rzecz-ktorego.html" title="Czy wierzyciel zawsze może wskazać nowy podmiot, na rzecz którego musimy spłacić nasz dług?" class="title"><div class="last-article-image"
+       style="background-image: url('http://jakprawnie.local/img/original/publication/0/54.jpg');">
+ 
+        </div></a>
+    
+    <a href="http://jakprawnie.local/dom/czy-wierzyciel-zawsze-moze-wskazac-nowy-podmiot-na-rzecz-ktorego.html" title="Czy wierzyciel zawsze może wskazać nowy podmiot, na rzecz którego musimy spłacić nasz dług?" class="title">
+        <h4>Czy wierzyciel zawsze może wskazać nowy podmiot, na rzecz którego musimy spłacić nasz dług?</h4>
+    </a>
+
+    <p>
+    
+</div>
+    
+
+
+
+
+        <a class="see-all-2" href="http://jakprawnie.local/dom">ZOBACZ WSZYSTKIE</a>
+            </div>
+    
+</div>              
+
+<div class="dropdown" id="dropdown-menu-item-2">
+        <div class="col-lg-6 col-md-6 border-r">   
+
+
+        <div class="col-lg-6 col-md-6">
+
+            <nav class="left-nav">
+                <ul>               
+
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-1" href="http://jakprawnie.local/biznes/prawo-pracy-2" >
+                                                      Prawo pracy
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-1">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/prawo-pracy-2/urlopy-2" >Urlopy</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-pracy-2/urlopy-rodzicielskie-2" >Urlopy rodzicielskie</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-pracy-2/wynagrodzenia-2" >Wynagrodzenia</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-pracy-2/bhp" >BHP</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-pracy-2/czas-pracy-2" >Czas pracy</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-pracy-2/umowa-o-prace-2" >Umowa o pracę</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-pracy-2/odpowiedzialnosc-materialna-2" >Odpowiedzialność materialna</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-pracy-2/zwiazki-zawodowe" >Związki zawodowe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/prawo-pracy-2">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-2" href="http://jakprawnie.local/biznes/handlowe-i-gospodarcze" >
+                                                      Handlowe i gospodarcze
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-2">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/handlowe-i-gospodarcze/weksle-i-czeki" >Weksle i czeki</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/handlowe-i-gospodarcze/gwarancje-bankowe-i-ubezpieczeniowe" >Gwarancje bankowe i ubezpieczeniowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/handlowe-i-gospodarcze/leasing" >Leasing</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/handlowe-i-gospodarcze/zastaw-i-zastaw-rejestrowy" >Zastaw i zastaw rejestrowy</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/handlowe-i-gospodarcze/poreczenie-2" >Poręczenie</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/handlowe-i-gospodarcze/dzia-alnosc-gospodarcza" >Działalność gospodarcza</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/handlowe-i-gospodarcze/pozosta-e-11" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/handlowe-i-gospodarcze">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-3" href="http://jakprawnie.local/biznes/spolki" >
+                                                      Spółki
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-3">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/spolki/spo-ka-z-oo" >Społka z o.o.</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/spolki/spo-ka-cywilna" >Społka cywilna</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/spolki/spo-ka-jawna" >Społka jawna</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/spolki/spo-ka-komandytowa" >Społka komandytowa</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/spolki/spo-ka-partnerska" >Społka partnerska</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/spolki/spo-ka-komandytowoakcyjna" >Społka komandytowo-akcyjna</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/spolki/spo-ka-akcyjna" >Społka akcyjna</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/spolki/podzia--i-przekszta-cenie" >Podział i przekształcenie</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/spolki">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-4" href="http://jakprawnie.local/biznes/prawo-budowlane" >
+                                                      Prawo budowlane
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-4">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/prawo-budowlane/pozwolenie-na-budowe-2" >Pozwolenie na budowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-budowlane/zagospodarowanie-przestrzenne-2" >Zagospodarowanie przestrzenne</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-budowlane/zg-oszenie-budowy-2" >Zgłoszenie budowy</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-budowlane/decyzje-srodowiskowe-2" >Decyzje środowiskowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-budowlane/pozosta-e-13" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/prawo-budowlane">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-5" href="http://jakprawnie.local/biznes/prawo-administracyjne" >
+                                                      Prawo administracyjne
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-5">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/prawo-administracyjne/koncesje-i-zezwolenia" >Koncesje i zezwolenia</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-administracyjne/decyzja-administracyjna" >Decyzja administracyjna</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-administracyjne/odwo-anie" >Odwołanie</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-administracyjne/ochrona-srodowiska" >Ochrona środowiska</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-administracyjne/postepowanie-sadowoadministracyjne" >Postępowanie sądowo-administracyjne</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-administracyjne/pozosta-e-14" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/prawo-administracyjne">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-6" href="http://jakprawnie.local/biznes/prawo-upad-osciowe" >
+                                                      Prawo upadłościowe
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-6">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/prawo-upad-osciowe/og-oszenie-upad-osci" >Ogłoszenie upadłości</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-upad-osciowe/niewyp-acalnosc" >Niewypłacalność</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-upad-osciowe/upad-osc-likwidacyjna" >Upadłość likwidacyjna</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-upad-osciowe/upad-osc-uk-adowa" >Upadłość układowa</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-upad-osciowe/zg-oszenie-wierzytelnosci" >Zgłoszenie wierzytelności</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-upad-osciowe/pozosta-e-15" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/prawo-upad-osciowe">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-7" href="http://jakprawnie.local/biznes/prawo-cywilne" >
+                                                      Prawo cywilne
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-7">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/prawo-cywilne/umowy-2" >Umowy</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-cywilne/przedawnienie-2" >Przedawnienie</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-cywilne/hipoteka-2" >Hipoteka</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-cywilne/nieruchomosci-2" >Nieruchomości</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-cywilne/w-asnosc-i-uzytkowanie-wieczyste-2" >Własność i użytkowanie wieczyste</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-cywilne/s-uzebnosc-2" >Służebność</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-cywilne/zastaw-2" >Zastaw</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-cywilne/zadatek-i-zaliczka-2" >Zadatek i zaliczka</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/prawo-cywilne">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-8" href="http://jakprawnie.local/biznes/zamowienia-publiczne" >
+                                                      Zamówienia publiczne
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-8">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/zamowienia-publiczne/swiz" >SWIZ</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/zamowienia-publiczne/oferta" >Oferta</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/zamowienia-publiczne/przetarg" >Przetarg</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/zamowienia-publiczne/wykluczenie-z-przetargu" >Wykluczenie z przetargu</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/zamowienia-publiczne/konkurs" >Konkurs</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/zamowienia-publiczne/wybor-ofert" >Wybór ofert</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/zamowienia-publiczne/odwo-ania" >Odwołania</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/zamowienia-publiczne/pozosta-e-16" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/zamowienia-publiczne">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-9" href="http://jakprawnie.local/biznes/prawo-autorskie-2" >
+                                                      Prawo autorskie
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-9">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/prawo-autorskie-2/autorskie-prawa-majatkowe-2" >Autorskie prawa majątkowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-autorskie-2/autorskie-prawa-osobiste-2" >Autorskie prawa osobiste</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-autorskie-2/odpowiedzialnosc-2" >Odpowiedzialność</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-autorskie-2/pozosta-e-17" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/prawo-autorskie-2">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                        
+                    <li>                    
+                                                   <a class="menu-second-level" id="a-pdk2-10" href="http://jakprawnie.local/biznes/prawo-w-asnosci-przemys-owej" >
+                                                      Prawo własności przemysłowej
+                           <i class="fa fa-angle-right"></i></a>
+                            <div class="submenu" id="box-pdk2-10">
+
+                                                                <ul>
+                                                                                                            <li><a href="http://jakprawnie.local/biznes/prawo-w-asnosci-przemys-owej/patenty" >Patenty</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-w-asnosci-przemys-owej/wynalazki" >Wynalazki</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-w-asnosci-przemys-owej/wzory-uzytkowe" >Wzory użytkowe</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-w-asnosci-przemys-owej/prawo-ochronne" >Prawo ochronne</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-w-asnosci-przemys-owej/postepowanie-przed-urzedem-patentowym" >Postępowanie przed urzędem patentowym</a></li>
+                                                                                                                                                <li><a href="http://jakprawnie.local/biznes/prawo-w-asnosci-przemys-owej/pozosta-e-18" >Pozostałe</a></li>
+                                                                                                        </ul>
+                                <a class="see-all" href="http://jakprawnie.local/biznes/prawo-w-asnosci-przemys-owej">ZOBACZ WSZYSTKIE</a>
+                                                            </div>
+                    </li>
+                    
+                                    </ul>
+
+            </nav>
+
+        </div>
+
+    </div> 
+
+
+    <div class="col-lg-6 col-md-6">
+
+                
+    <h5>Najnowsze artykuły</h5>
+
+            <div class="col-lg-6 col-md-6 article-box">
+
+
+        <a href="http://jakprawnie.local/biznes/czy-przedsiebiorca-moze-kontrolowac-swoich-telepracownikow.html" title="Czy przedsiębiorca może kontrolować swoich telepracowników?" class="title"><div class="last-article-image"
+       style="background-image: url('http://jakprawnie.local/img/original/publication/0/58.jpg');">
+ 
+        </div></a>
+    
+    <a href="http://jakprawnie.local/biznes/czy-przedsiebiorca-moze-kontrolowac-swoich-telepracownikow.html" title="Czy przedsiębiorca może kontrolować swoich telepracowników?" class="title">
+        <h4>Czy przedsiębiorca może kontrolować swoich telepracowników?</h4>
+    </a>
+
+    <p>
+    
+</div>
+            <div class="col-lg-6 col-md-6 article-box">
+
+
+        <a href="http://jakprawnie.local/biznes/czym-ryzykuje-pracodawca-dopuszczajac-pracownika-do-pracy-bez-umowy.html" title="Czym ryzykuje pracodawca dopuszczając pracownika do pracy bez umowy?" class="title"><div class="last-article-image"
+       style="background-image: url('http://jakprawnie.local/img/original/publication/0/52.jpg');">
+ 
+        </div></a>
+    
+    <a href="http://jakprawnie.local/biznes/czym-ryzykuje-pracodawca-dopuszczajac-pracownika-do-pracy-bez-umowy.html" title="Czym ryzykuje pracodawca dopuszczając pracownika do pracy bez umowy?" class="title">
+        <h4>Czym ryzykuje pracodawca dopuszczając pracownika do pracy bez umowy?</h4>
+    </a>
+
+    <p>
+    
+</div>
+            <div class="col-lg-6 col-md-6 article-box">
+
+
+        <a href="http://jakprawnie.local/biznes/kiedy-mozna-og-osic-upad-osc-w-kontekscie-zmian-po-1-stycznia-2016-r.html" title="Kiedy można ogłosić upadłość w kontekście zmian po 1 stycznia 2016 r.?" class="title"><div class="last-article-image"
+       style="background-image: url('http://jakprawnie.local/img/original/publication/0/51.jpg');">
+ 
+        </div></a>
+    
+    <a href="http://jakprawnie.local/biznes/kiedy-mozna-og-osic-upad-osc-w-kontekscie-zmian-po-1-stycznia-2016-r.html" title="Kiedy można ogłosić upadłość w kontekście zmian po 1 stycznia 2016 r.?" class="title">
+        <h4>Kiedy można ogłosić upadłość w kontekście zmian po 1 stycznia 2016 r.?</h4>
+    </a>
+
+    <p>
+    
+</div>
+            <div class="col-lg-6 col-md-6 article-box">
+
+
+        <a href="http://jakprawnie.local/biznes/kiedy-cz-onek-zarzadu-bedzie-odpowiada--za-d-ugi-spo-ki-po-1-stycznia-2016-r.html" title="Kiedy członek zarządu będzie odpowiadał za długi spółki po 1 stycznia 2016 r.?" class="title"><div class="last-article-image"
+       style="background-image: url('http://jakprawnie.local/img/original/publication/0/50.jpg');">
+ 
+        </div></a>
+    
+    <a href="http://jakprawnie.local/biznes/kiedy-cz-onek-zarzadu-bedzie-odpowiada--za-d-ugi-spo-ki-po-1-stycznia-2016-r.html" title="Kiedy członek zarządu będzie odpowiadał za długi spółki po 1 stycznia 2016 r.?" class="title">
+        <h4>Kiedy członek zarządu będzie odpowiadał za długi spółki po 1 stycznia 2016 r.?</h4>
+    </a>
+
+    <p>
+    
+</div>
+    
+
+
+
+
+        <a class="see-all-2" href="http://jakprawnie.local/biznes">ZOBACZ WSZYSTKIE</a>
+            </div>
+    
+</div>              
+
+<div class="dropdown" id="dropdown-menu-item-3">
+        <div class="col-lg-6 col-md-6 border-r">   
+
+
+        <div class="col-lg-6 col-md-6">
+
+            <nav class="left-nav">
+                <ul>               
+
+                                        
+                                        
+                                        
+                                        
+                                    </ul>
+
+            </nav>
+
+        </div>
+
+    </div> 
+
+
+    <div class="col-lg-6 col-md-6">
+
+                
+    <h5>Najnowsze artykuły</h5>
+
+            <div class="col-lg-6 col-md-6 article-box">
+
+
+    
+    <a href="http://jakprawnie.local/dokumenty/dokument-test2.html" title="Dokument test2" class="title">
+        <h4>Dokument test2</h4>
+    </a>
+
+    <p>
+    
+</div>
+    
+
+
+
+
+        <a class="see-all-2" href="http://jakprawnie.local/dokumenty">ZOBACZ WSZYSTKIE</a>
+            </div>
+    
+</div>              
+
+
+<div class="dropdown" id="dropdown-menu-item-5">
+    
+                    <div class="col-lg-6 col-md-6 border-r">
+
+                        <div class="col-lg-6 col-md-6 border-r">
+
+                            <div class="title-box">
+
+                                <img src="/assets/img/dla-firm-menu-img.png" alt="">
+                                <h4>DLA FIRM</h4>
+
+                            </div>
+
+                            <nav class="alt-nav">
+
+                                <ul>
+
+                                    <li><a href="/oferta.html#stala-obsluga">Stała obsługa<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a href="/oferta.html#zlec-umowe">Zleć umowę<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a href="/oferta.html#e-porada">E-porada<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a href="/oferta.html#zlec-pismo">Zleć pismo<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a href="/oferta.html#zlec-sprawe">Zleć sprawę<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a href="/oferta.html#zakladanie-spolek">Zakładanie społek<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a href="/oferta.html#regulaminy-giodo">Regulaminy www GIODO<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a href="/oferta.html#windykacja">Windykacja<i class="fa fa-angle-right"></i></a></li>
+
+                                </ul>
+
+                            </nav>
+
+                            <a class="see-all-2" href="/oferta.html">DOWIEDZ SIĘ WIĘCEJ</a>
+
+                        </div>
+
+
+                       <div class="col-lg-6 col-md-6">
+
+                            <div class="title-box">
+
+                                <img src="/assets/img/dla-osob-fizycznych-menu-img.png" alt="">
+                                <h4>DLA OSÓB FIZYCZNYCH</h4>
+
+                            </div>
+
+                            <nav class="alt-nav">
+
+                                <ul>
+
+                                    <li><a href="/oferta2.html#zlec-pismo">Zleć pismo<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a href="/oferta2.html#zlec-sprawe">Zleć sprawę<i class="fa fa-angle-right"></i></a></li>
+                                    <li><a href="/oferta2.html#e-porada">E-porada<i class="fa fa-angle-right"></i></a></li>
+
+                                </ul>
+
+                            </nav>
+
+                            <a class="see-all-2" href="/oferta2.html">DOWIEDZ SIĘ WIĘCEJ</a>
+
+                        </div>
+
+                    </div>
+
+
+                   <!-- <div class="col-lg-6 col-md-6">
+
+                        <div class="title-box">
+
+                            <img src="/assets/img/zadaj-pytanie-menu-img.png" alt="">
+                            <h4>ZADAJ PYTANIE NASZYM SPECJALISTOM</h4>
+
+                        </div>
+
+
+                        <div class="col-lg-4 col-md-4">
+                        <a href="#">
+
+                            <img class="img-circle" src="/assets/img/osoba1.jpg" alt="">
+                            <h6>Adw. Jan Kowalski</h6>
+                            <p>Specjalność: <strong>prawo gospodarcze</strong></p>
+
+                            <div class="zadaj-pytanie">ZADAJ PYTANIE</div>
+
+                        </a>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4">
+                        <a href="#">
+
+                            <img class="img-circle" src="/assets/img/osoba2.jpg" alt="">
+                            <h6>Radca Prawny Agata Nowak</h6>
+                            <p>Specjalność: <strong>prawo rodzinne</strong></p>
+
+                            <div class="zadaj-pytanie">ZADAJ PYTANIE</div>
+
+                        </a>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4">
+                        <a href="#">
+
+                            <img class="img-circle" src="/assets/img/osoba3.jpg" alt="">
+                            <h6>Krzysztof Kamiński</h6>
+                            <p>Specjalność: <strong>prawo autorskie</strong></p>
+
+                            <div class="zadaj-pytanie">ZADAJ PYTANIE</div>
+
+                        </a>
+                        </div>
+
+                    </div> -->
+    
+</div>              
+
+
+";

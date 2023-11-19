@@ -1,0 +1,260 @@
+C:34:"Phalcon\Mvc\Model\Resultset\Simple":8794:{a:5:{s:5:"model";C:34:"Page\Model\Translate\PageTranslate":76:{a:5:{s:2:"id";N;s:10:"foreign_id";N;s:4:"lang";N;s:3:"key";N;s:5:"value";N;}}s:5:"cache";N;s:4:"rows";a:5:{i:0;a:5:{s:2:"id";s:2:"43";s:10:"foreign_id";s:1:"5";s:4:"lang";s:2:"pl";s:3:"key";s:5:"title";s:5:"value";s:27:"Oferta dla osób fizycznych";}i:1;a:5:{s:2:"id";s:2:"44";s:10:"foreign_id";s:1:"5";s:4:"lang";s:2:"pl";s:3:"key";s:4:"text";s:5:"value";s:7921:"<div class="offer-options">
+
+
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+        <a href="#e-porada">
+<div class="info">
+Dostałeś pozew, nakaz zapłaty lub nie wiesz jak napisać skuteczne prawnie wezwanie do zapłaty?</div>
+            <img class="image" src="/assets/img/e-porada-img.png" alt="">
+
+            <div class="box">
+
+                <img class="icon" src="/assets/img/e-porada-icon.png" alt="">
+
+                <div class="line"></div>
+
+                <h3>E-PORADA</h3>
+
+            </div>
+
+        </a>
+    </div>
+
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+        <a href="#zlec-pismo">
+<div class="info">
+Masz sprawę w sądzie, a może chcesz dopiero założyć?</div>
+            <img class="image" src="/assets/img/zlec-pismo-img.png" alt="">
+
+            <div class="box">
+
+                <img class="icon" src="/assets/img/zlec-pismo-icon.png" alt="">
+
+                <div class="line"></div>
+
+                <h3>ZLEĆ PISMO</h3>
+
+            </div>
+
+        </a>
+    </div>
+
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+        <a href="#zlec-sprawe">
+<div class="info">To nic innego jak odpowiedź na zadane przez Ciebie pytanie prawne. </div>
+            <img class="image" src="/assets/img/zlec-sprawe-img.png" alt="">
+
+            <div class="box">
+
+                <img class="icon" src="/assets/img/zlec-sprawe-icon.png" alt="">
+
+                <div class="line"></div>
+
+                <h3>ZLEĆ SPRAWĘ</h3>
+
+            </div>
+
+        </a>
+    </div>
+
+
+
+</div>
+
+
+
+
+<div class="offer-content">
+<div class="offer" id="e-porada">
+
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+
+        <img class="image" src="/assets/img/e-porada-img.png" alt="">
+
+        <div class="box">
+
+            <img class="icon" src="/assets/img/e-porada-icon.png" alt="">
+
+            <div class="line"></div>
+
+            <h3>E-PORADA</h3>
+
+        </div>
+
+    </div>
+
+    <div class="col-lg-8 col-md-8 col-sm-9 col-xs-12">
+
+        <div class="des">
+            To nic innego jak odpowiedź na zadane przez Ciebie pytanie prawne. Bez nieinteresujących się wywodów prawnych, prezentowania stanowisk doktryny i orzecznictwa wskażemy odpowiedź na Twoje pytanie czy rozwiązanie Twojego problemu z podaniem podstaw prawnych. Jeśli sprawa nadal będzie niejasna w cenie możesz zadać dodatkowe pytania doprecyzowujące bez dodatkowych opłat.
+            <br><br>•	Opisz problem i zadaj pytania,
+            <br>•	Prześlij dokumenty (jeśli będą potrzebne),
+            <br>•	Odbierz odpowiedź
+
+        </div>
+
+        <div class="steps">
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+
+                <img src="/assets/img/oferta-przeslij.png" alt="">
+                <p><strong>1</strong> Prześlij dokumenty</p>
+
+            </div>
+
+            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"><img src="/assets/img/oferta-sep.png" alt=""></div>
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+
+                <img src="/assets/img/oferta-osoby.png" alt="">
+                <p><strong>2</strong> Opisz problem</p>
+
+            </div>
+
+            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"><img src="/assets/img/oferta-sep.png" alt=""></div>
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+
+                <img src="/assets/img/oferta-czekaj.png" alt="">
+                <p><strong>3</strong> Poczekaj na wycenę</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="offer" id="zlec-pismo">
+
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+        <img class="image" src="/assets/img/zlec-pismo-img.png" alt="">
+
+        <div class="box">
+
+            <img class="icon" src="/assets/img/zlec-pismo-icon.png" alt="">
+
+            <div class="line"></div>
+
+            <h3>ZLEĆ PISMO</h3>
+
+        </div>
+
+    </div>
+
+    <div class="col-lg-8 col-md-8 col-sm-9 col-xs-12">
+
+        <div class="des">
+            Dostałeś pozew, nakaz zapłaty lub nie wiesz jak napisać skuteczne prawnie wezwanie do zapłaty? Jeśli z jakichś powodów nie chcesz zlecać prawnikowi prowadzenia całej sprawy od początku zleć napisanie pisma:<br><br>
+            •	Opisz sprawę i napisz czego oczekujesz lub jaki efekt chciałbyś osiągnąć,<br>
+            •	Prześlij dokumenty,<br>
+            •	Odbierz pismo.<br>
+
+        </div>
+
+        <div class="steps">
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+
+                <img src="/assets/img/oferta-przeslij.png" alt="">
+                <p><strong>1</strong> Prześlij dokumenty</p>
+
+            </div>
+
+            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"><img src="/assets/img/oferta-sep.png" alt=""></div>
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+
+                <img src="/assets/img/oferta-osoby.png" alt="">
+                <p><strong>2</strong> Opisz problem</p>
+
+            </div>
+
+            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"><img src="/assets/img/oferta-sep.png" alt=""></div>
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+
+                <img src="/assets/img/oferta-pobierz.png" alt="">
+                <p><strong>3</strong> Odbierz pismo</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<div class="offer" id="zlec-sprawe">
+
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+
+        <img class="image" src="/assets/img/zlec-sprawe-img.png" alt="">
+
+        <div class="box">
+
+            <img class="icon" src="/assets/img/zlec-sprawe-icon.png" alt="">
+
+            <div class="line"></div>
+
+            <h3>ZLEĆ SPRAWĘ</h3>
+
+        </div>
+
+    </div>
+
+    <div class="col-lg-8 col-md-8 col-sm-9 col-xs-12">
+
+        <div class="des">
+            Masz sprawę w sądzie, a może chcesz dopiero założyć?<br>
+            <br><br>Oferujemy prowadzenie spraw przed sądem na terenie całego kraju przez profesjonalnego pełnomocnika adwokata lub radcę prawnego. Prowadzimy sprawy karne, cywilne, administracyjne, pracownicze, spadkowe, rozwodowe, oraz rodzinne. Nasz zespół to wykfalifikowani radcowie prawni i adwokaci - gwarantujemy fachowośc i rzetelność usług.
+            <br><br>Jak zlecić sprawę?
+            <br>1.Dokładnie opisz sprawę, w której potrzebujesz naszej pomocy prawnej,
+            <br>2. Dostarcz nam szczegółowe informacje i dokumenty, dotyczące Twojej sprawy,
+            <br>3. Przedstawimy Ci możliwe rozwiązania, wycenimy prowadzenie sprawy,
+            <br>4. Udziel pełnomocnictwa radcy prawnemu lub adwokatowi,
+            <br>5. Mozemy reprezentować Cię przed sądem!
+
+
+        </div>
+
+        <div class="steps">
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+
+                <img src="/assets/img/oferta-przeslij.png" alt="">
+                <p><strong>1</strong> Prześlij dokumenty</p>
+
+            </div>
+
+            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"><img src="/assets/img/oferta-sep.png" alt=""></div>
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+
+                <img src="/assets/img/oferta-osoby.png" alt="">
+                <p><strong>2</strong> Opisz problem</p>
+
+            </div>
+
+            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"><img src="/assets/img/oferta-sep.png" alt=""></div>
+
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+
+                <img src="/assets/img/oferta-podpisz.png" alt="">
+                <p><strong>3</strong> Podpisz pełnomocnictwo</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+</div>
+
+    <a href="#" id="back-to-top" title="Powrót do góry">↑</a>";}i:2;a:5:{s:2:"id";s:2:"45";s:10:"foreign_id";s:1:"5";s:4:"lang";s:2:"pl";s:3:"key";s:10:"meta_title";s:5:"value";s:27:"Oferta dla osób fizycznych";}i:3;a:5:{s:2:"id";s:2:"48";s:10:"foreign_id";s:1:"5";s:4:"lang";s:2:"pl";s:3:"key";s:16:"meta_description";s:5:"value";s:0:"";}i:4;a:5:{s:2:"id";s:2:"49";s:10:"foreign_id";s:1:"5";s:4:"lang";s:2:"pl";s:3:"key";s:13:"meta_keywords";s:5:"value";s:0:"";}}s:9:"columnMap";N;s:11:"hydrateMode";i:0;}}
