@@ -6,7 +6,7 @@
 
 ## Requirements
 
-* php 5.4+
+* php 5.4-5.6
 * phalcon 1.3.5+
 * phalcon 2.0.7+
 * mysql
